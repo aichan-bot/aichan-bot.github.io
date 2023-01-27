@@ -1,5 +1,5 @@
 # aichan-bot.github.io
-# Building Websites in GitHub
+# {{ site.somevar }}
 
 ## Description
 {{ site.description }}
